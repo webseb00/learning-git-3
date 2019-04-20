@@ -22,7 +22,7 @@ p {
 }
 
 .container {
-    margin: 0 auto;
+    margn: 50px auto;
     width: 100%;
     max-width: 600px;
     text-align: center;
